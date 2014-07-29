@@ -18,7 +18,7 @@ You insert the code into the unity project like this (the name atest refers to t
 5. copy all the contents of this text file below (between the BUTTON CONTROL BEGIN SCRIPT and ...END SCRIPT line ) and paste it into the atest.cs 
 6. save atest.cs 
 7. Drag atest.cs from the project window on the kam0Mov object in the Hierarchy window 
-8. in the Hierarchy window click on the in the kam0Mov object and then in the Inspector window fill the public variables MobileDiffuseSh and picTxtr0 
+8. in the Hierarchy window click on the in the kam0Mov object and then in the Inspector window fill the public variables  if necessary
 
 Here starts the source code:
 
