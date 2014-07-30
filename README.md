@@ -3,7 +3,7 @@ EmicvlGit
 
 Emicvl Unity code related to youtube tutorials by Tomaz Amon
 
-You have here a the projects that were used in the youtube tutorials published on 
+You have here in the Assets folder the projects that were used in the youtube tutorials published on 
 
 http://www.youtube.com/channel/UC92FD39sxM-GZ5Oyb3ACtTw
 
