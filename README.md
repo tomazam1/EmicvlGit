@@ -1,11 +1,12 @@
-EmicvlGit
-=========
+Tutorials Assets
+================
 
 Emicvl Unity code related to youtube tutorials by Tomaz Amon
 
 You have here in the Assets folder the projects that were used in the youtube tutorials published on 
 
-http://www.youtube.com/channel/UC92FD39sxM-GZ5Oyb3ACtTw
+[YouTube Channel](http://www.youtube.com/channel/UC92FD39sxM-GZ5Oyb3ACtTw) or
+EMICVL [Learn Hub](http://sites.google.com/a/my.westminster.ac.uk/emicvl/learning-hub)
 
 The folder and file structure is just the same as used in Unity. You simply download on your local disk the folders of interest any you can create your own Unity project from this code.
 
