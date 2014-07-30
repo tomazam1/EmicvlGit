@@ -7,14 +7,12 @@ You have here in the Assets folder the projects that were used in the youtube tu
 
 http://www.youtube.com/channel/UC92FD39sxM-GZ5Oyb3ACtTw
 
-The folder and file structure is just like used in Unity. You simply download on your local disk the folders of interest any you can create your own Unity project from this code.
+The folder and file structure is just the same as used in Unity. You simply download on your local disk the folders of interest any you can create your own Unity project from this code.
 
-If you want to insert the example C# code yourself into a new project C# routine, you might follow these steps:
+If you want to insert an example C# code yourself into a new project C# routine, you might follow these steps:
 
-You insert the code into the unity project like this (the name atest refers to the first C#  just below):
-
-1. Create a new c# script in Unity:Assets->Create->c# script
-2. name this c# file as atest (the name atest is just an example. Feel free to use your own name)
+1. Create a new C# script in Unity:Assets->Create->C# script
+2. name this C# file as atest (the name atest is just an example. Feel free to use your own name)
 3. open the atest.cs file in Unity 
 4. delete ALL contents of this file
 5. copy all the contents of this text file below (between the BUTTON CONTROL BEGIN SCRIPT and ...END SCRIPT line ) and paste it into the atest.cs 
